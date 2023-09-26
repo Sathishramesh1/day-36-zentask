@@ -1,0 +1,486 @@
+[{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 9,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 10,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 16,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 21,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 29,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 4,
+  "date": "2020-10-15",
+  "attendance": {
+    "user_id": 32,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "65058fe92f67e7e9df2df748"
+      },
+      "task_id": 4,
+      "task_name": "pagination",
+      "date": "2020-10-15"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 9,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 10,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 16,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 21,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 29,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 5,
+  "date": "2020-10-20",
+  "attendance": {
+    "user_id": 32,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "6505901d2f67e7e9df2df749"
+      },
+      "task_id": 5,
+      "task_name": "react task",
+      "date": "2020-10-20"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 9,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 10,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 16,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 21,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 29,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 6,
+  "date": "2020-10-25",
+  "attendance": {
+    "user_id": 32,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590422f67e7e9df2df74a"
+      },
+      "task_id": 6,
+      "task_name": "context api",
+      "date": "2020-10-25"
+    }
+  ]
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 9,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 10,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 16,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 21,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 29,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 7,
+  "date": "2020-10-30",
+  "attendance": {
+    "user_id": 32,
+    "attended": false
+  },
+  "task": []
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 9,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 10,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 16,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 21,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 29,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+},
+{
+  "topic_id": 8,
+  "date": "2020-10-31",
+  "attendance": {
+    "user_id": 32,
+    "attended": false
+  },
+  "task": [
+    {
+      "_id": {
+        "$oid": "650590732f67e7e9df2df74b"
+      },
+      "task_id": 7,
+      "task_name": "redux task",
+      "date": "2020-10-31"
+    }
+  ]
+}]

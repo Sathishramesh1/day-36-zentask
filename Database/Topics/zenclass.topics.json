@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e1c"
+  },
+  "topic_id": 1,
+  "topic_name": "MongoDB",
+  "description": "A source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas.",
+  "date": "2020-10-01"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e1d"
+  },
+  "topic_id": 2,
+  "topic_name": "Express.js",
+  "description": "A back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.",
+  "date": "2020-10-05"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e1e"
+  },
+  "topic_id": 3,
+  "topic_name": "React.js",
+  "description": "A JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.",
+  "date": "2020-10-10"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e1f"
+  },
+  "topic_id": 4,
+  "topic_name": "Node.js",
+  "description": "An open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.",
+  "date": "2020-10-15"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e20"
+  },
+  "topic_id": 5,
+  "topic_name": "Redux",
+  "description": "An open-source JavaScript library for managing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.",
+  "date": "2020-10-20"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e21"
+  },
+  "topic_id": 6,
+  "topic_name": "Webpack",
+  "description": "An open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding plugins are included.",
+  "date": "2020-10-25"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e22"
+  },
+  "topic_id": 7,
+  "topic_name": "Babel",
+  "description": "A free and open-source JavaScript transcompiler that is mainly used to convert ECMAScript 2015+ (ES6+) code into a backwards compatible version of JavaScript that can be run by older JavaScript engines.",
+  "date": "2020-10-30"
+},
+{
+  "_id": {
+    "$oid": "6501c1c0dc25449d0c794e23"
+  },
+  "topic_id": 8,
+  "topic_name": "MySQL",
+  "description": "An open-source relational database management system. Its name is a combination of 'My', the name of co-founder Michael Widenius's daughter, and 'SQL', the abbreviation for Structured Query Language.",
+  "date": "2020-10-31"
+}]

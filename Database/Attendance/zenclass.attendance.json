@@ -1,0 +1,1096 @@
+[{
+  "_id": {
+    "$oid": "6511068dc85fbdf8d934044c"
+  },
+  "topic_id": 1,
+  "date": "2023-10-01",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651170fbc85fbdf8d93404ab"
+  },
+  "topic_id": 2,
+  "date": "2023-10-05",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6511710ac85fbdf8d93404ac"
+  },
+  "topic_id": 3,
+  "date": "2023-10-10",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65117115c85fbdf8d93404ad"
+  },
+  "topic_id": 4,
+  "date": "2023-10-15",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65117122c85fbdf8d93404ae"
+  },
+  "topic_id": 5,
+  "date": "2023-10-20",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65117130c85fbdf8d93404af"
+  },
+  "topic_id": 6,
+  "date": "2023-10-25",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65117148c85fbdf8d93404b0"
+  },
+  "topic_id": 7,
+  "date": "2023-10-30",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65117155c85fbdf8d93404b1"
+  },
+  "topic_id": 8,
+  "date": "2023-10-31",
+  "attendance": [
+    {
+      "user_id": 1,
+      "attended": true
+    },
+    {
+      "user_id": 2,
+      "attended": true
+    },
+    {
+      "user_id": 3,
+      "attended": true
+    },
+    {
+      "user_id": 4,
+      "attended": true
+    },
+    {
+      "user_id": 5,
+      "attended": true
+    },
+    {
+      "user_id": 6,
+      "attended": true
+    },
+    {
+      "user_id": 7,
+      "attended": true
+    },
+    {
+      "user_id": 8,
+      "attended": true
+    },
+    {
+      "user_id": 9,
+      "attended": false
+    },
+    {
+      "user_id": 10,
+      "attended": false
+    },
+    {
+      "user_id": 11,
+      "attended": true
+    },
+    {
+      "user_id": 12,
+      "attended": true
+    },
+    {
+      "user_id": 13,
+      "attended": true
+    },
+    {
+      "user_id": 14,
+      "attended": true
+    },
+    {
+      "user_id": 15,
+      "attended": true
+    },
+    {
+      "user_id": 16,
+      "attended": false
+    },
+    {
+      "user_id": 17,
+      "attended": true
+    },
+    {
+      "user_id": 18,
+      "attended": true
+    },
+    {
+      "user_id": 19,
+      "attended": true
+    },
+    {
+      "user_id": 20,
+      "attended": true
+    },
+    {
+      "user_id": 21,
+      "attended": false
+    },
+    {
+      "user_id": 22,
+      "attended": true
+    },
+    {
+      "user_id": 23,
+      "attended": true
+    },
+    {
+      "user_id": 24,
+      "attended": true
+    },
+    {
+      "user_id": 25,
+      "attended": true
+    },
+    {
+      "user_id": 26,
+      "attended": true
+    },
+    {
+      "user_id": 27,
+      "attended": true
+    },
+    {
+      "user_id": 28,
+      "attended": true
+    },
+    {
+      "user_id": 29,
+      "attended": false
+    },
+    {
+      "user_id": 30,
+      "attended": true
+    },
+    {
+      "user_id": 31,
+      "attended": true
+    },
+    {
+      "user_id": 32,
+      "attended": false
+    }
+  ]
+}]

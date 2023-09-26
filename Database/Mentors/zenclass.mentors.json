@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6505bd542f67e7e9df2df764"
+  },
+  "mentor_id": 1,
+  "name": "manikandan",
+  "mentoring_batch": "b49"
+},
+{
+  "_id": {
+    "$oid": "6505bdab2f67e7e9df2df765"
+  },
+  "mentor_id": 2,
+  "name": "mohan",
+  "mentoring_batch": "b50"
+}]
